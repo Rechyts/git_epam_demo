@@ -1,3 +1,3 @@
-# git_epam_demo
+# git_demo
 
 some content2
