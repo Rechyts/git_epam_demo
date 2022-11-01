@@ -8,4 +8,4 @@ The Age of Heroes
 some content
 and here!
 
-one more line in branch
+new line in feature branch
